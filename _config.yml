@@ -8,8 +8,8 @@
 # Site settings
 title: Desarrollos Multiplataforma y Algo Mas
 email: mrduarte55@gmail.com
-description: > Compartimos con ustedes neustros conocimientos en desarrollo de app moviles.
-               “El valor de la innovación no está en evitar que te copien, sino en conseguir que todos te quieran copiar” Enrique Dans
+description: > “El valor de la innovación no está en evitar que te copien, sino en conseguir que todos te quieran copiar” Enrique Dans
+                El futuro es ahora, es por ello por lo que compartimos con ustedes nuestros conocimientos en desarrollo de aplicaciones.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://JonathanDuarte.github.io" # the base hostname & protocol for your site
 github_username:  jonathanduarte
