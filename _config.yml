@@ -1,15 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Desarrollos Multiplataforma y Algo Mas
 email: mrduarte55@gmail.com
-description: > “El valor de la innovación no está en evitar que te copien, sino en conseguir que todos te quieran copiar” Enrique Dans
-                El futuro es ahora, es por ello por lo que compartimos con ustedes nuestros conocimientos en desarrollo de aplicaciones.
+description: > “El valor de la innovación no está en evitar que te copien, sino en conseguir que todos te quieran copiar” Enrique Dans.                Bienvenidos al blog de Desarrollo multiplataforma más consultado de toda  habla hispana, esperamos que tu estadía en este site sea de gran ayuda para tu desarrollo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://JonathanDuarte.github.io" # the base hostname & protocol for your site
 github_username:  jonathanduarte
