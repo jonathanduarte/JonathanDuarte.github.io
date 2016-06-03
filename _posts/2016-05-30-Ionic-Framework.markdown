@@ -2,13 +2,13 @@
 layout: post
 title:  "Ionic Framework"
 date:   2016-06-01 08:00:00 -0500
-categories: Tecnologia
+categories: Tecnología
 ---
 [Ionic][ionicDocs] es un framework gratuito y open source para desarrollar aplicaciones híbridas multiplataforma que utiliza HTML5, CSS (generado por SASS) y Cordova como base. Es uno de los framework del momento por utilizar AngularJS para gestionar las aplicaciones, lo que asegura aplicaciones rápidas y escalables.
 
 Fue creado por Drifty Co. en el año 2013 apartir del feedBack obtenido de los diferentes desarrolladores que intentaron construir aplicaciones móviles, por tal motivo el equipo de Drifty Co, decidio realizar su propio framework de desarrollo centrado en el rendimiento de las aplicaciones y construido con tecnología web.
 
-<h2>Caracteristicas:</h2>
+<h2>Características:</h2>
 
 <b>- Alto Rendimiento: </b>El rendimiento de las aplicaciones creadas con Ionic es muy bueno, la diferencia de rendimiento entre una app hibrida y una app nativa ha sido reducido casi a cero, La velocidad es muy importante, Ionic está construido para ser rápido gracias a la mínima manipulación del DOM, con cero jQuery y con aceleraciones de transiciones por hardware.
 
