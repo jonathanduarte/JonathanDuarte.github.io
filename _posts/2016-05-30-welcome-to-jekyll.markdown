@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-30 15:59:36 -0500
-categories: jekyll update
+title:  "Ionic Framework"
+date:   2016-06-01 08:00:00 -0500
+categories: Tecnologia
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+[Ionic][ionicDocs] es un framework gratuito y open source para desarrollar aplicaciones híbridas multiplataforma que utiliza HTML5, CSS (generado por SASS) y Cordova como base. Es uno de los framework del momento por utilizar AngularJS para gestionar las aplicaciones, lo que asegura aplicaciones rápidas y escalables.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Fue creado por Drifty Co. en el año 2013 apartir del feedBack obtenido de los diferentes desarrolladores que intentaron construir aplicaciones móviles, por tal motivo el equipo de Drifty Co, decidio realizar su propio framework de desarrollo centrado en el rendimiento de las aplicaciones y construido con tecnología web.
 
-Jekyll also offers powerful support for code snippets:
+<h2>Caracteristicas:</h2>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<b>- Alto Rendimiento: </b>El rendimiento de las aplicaciones creadas con Ionic es muy bueno, la diferencia de rendimiento entre una app hibrida y una app nativa ha sido reducido casi a cero, La velocidad es muy importante, Ionic está construido para ser rápido gracias a la mínima manipulación del DOM, con cero jQuery y con aceleraciones de transiciones por hardware.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<b>- AngularJS y Ionic:</b> Ionic utiliza AngularJS con el fin de crear un marco más adecuado para desarrollar aplicaciones ricas y robustas. Ionic no sólo se ve bien, sino que su arquitectura central es robusta y seria para el desarrollo de aplicaciones asi que son un equipo perfecto realizar aplicaciones hybridas.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<b>- Software Development Kit (SDK):</b> Ionic se inspira en los SDK de desarrollo móviles nativos más populares, por lo que es fácil de entender para cualquier persona que ha construido una aplicación nativa para iOS o Android. Lo mas cool de todo es desarrollar una vez, y compilar para varios.
+
+<b>- Diseño y Estilo:</b> Limpio, sencillo y funcional, Ionic ha sido desarrollado para adaṕtarse adecuadamente a los diferentes dispositivos moviles existentes sin ningun tipo de problema, ofreciendo multiples opciones para el estilo o layout de nuestra aplicacion, en este punto ionic se ha dado la tarea de abarcar bastante terreno y nos ofrece lista, cards, colores, tipografias predefinidas y muchisimas cosas mas.
+
+<b>- Comand Line Intefaces (CLI):</b> Esta característica es una de las más importantes de Ionic, sencillamente con un solo comando puede crear, probar, instalar plugins, emular cualquier plataforma y muchas otras cosas más para mayor información sobre este punto puedes probar `ionic help` en tu terminal y ver todos los comando disponibles que ionic tiene para ti <i>(Recuerda que para ello, debes primero instalar Ionic)</i>
+
+[ionicDocs]:http://ionicframework.com/docs/
