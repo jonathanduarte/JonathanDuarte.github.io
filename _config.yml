@@ -5,6 +5,7 @@ description: "Bienvenidos al blog de Desarrollo multiplataforma más consultado 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://JonathanDuarte.github.io" # the base hostname & protocol for your site
 github_username:  jonathanduarte
+twitter_username: jodayc055
 
 # Build settings
 markdown: kramdown
