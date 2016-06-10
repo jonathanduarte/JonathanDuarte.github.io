@@ -2,7 +2,7 @@
 layout: inner
 title: '"Ionic" Crea una vez implementa las que quieras'
 date: 2016-06-08 13:26:34
-categories: Tencnologia
+categories: Tencnología
 tags: ionic framework
 local_featured_image: 'jonathan.png'
 author: Jonathan Duarte.
