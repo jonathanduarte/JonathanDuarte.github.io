@@ -1,13 +1,13 @@
 # Site Settings
 title: 'Synergy-GB'
-description: 'Especialista en Desarrollo Multiplataforma'
+description: 'Synyergy-GB'
 logo: headerText.png
 url: '' # the base hostname & protocol for your site
-footer_text: 'Copyright &copy; 2007-2016.JonathanDuarte.rocks. All Rights Reserved.'
+footer_text: 'Copyright &copy; 2007-2016.Jonathan Duarte.rocks. All Rights Reserved.'
 
 # Admin Settings
-admin_name: 'Jonathan Duarte'
-admin_email: 'mrduarte55@gmail.com'
+admin_name: 'Alexander A. Ramírez M.'
+admin_email: 'alexander.ramirez@synergy-gb.com'
 
 # Google Analytics inserted in analytics.html
 tracking_id: UA-78958361-1
