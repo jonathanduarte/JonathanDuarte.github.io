@@ -11,7 +11,7 @@ author_email: mrduarte55@gmail.com
 lead_text: 'Esta es una de las frases mas celebres de Ionic pues es esta la premisa de los desarrollos multiplataforma, orientados a sustituir el tedioso desarrollo nativo y el mantenimiento que este implica, te invito a que conozcas este poderoso framework de desarrollo y veras por ti mismo las bondades que este ofrece...'
 ---
 
-[Ionic][ionicDocs] es un framework gratuito y open source para desarrollar aplicaciones híbridas multiplataforma que utiliza HTML5, CSS (generado por SASS) y Cordova como base. Es uno de los framework del momento por utilizar AngularJS para gestionar las aplicaciones, lo que asegura aplicaciones rápidas y escalables.
+[Ionic][ionicDocs] es un Framework gratuito y open source para desarrollar aplicaciones híbridas multiplataforma que utiliza HTML5, CSS (generado por SASS) y Cordova como base. Es uno de los framework del momento por utilizar AngularJS para gestionar las aplicaciones, lo que asegura aplicaciones rápidas y escalables.
 
 Fue creado por Drifty Co. en el año 2013 apartir del feedBack obtenido de los diferentes desarrolladores que intentaron construir aplicaciones móviles, por tal motivo el equipo de Drifty Co, decidio realizar su propio framework de desarrollo centrado en el rendimiento de las aplicaciones y construido con tecnología web.
 
