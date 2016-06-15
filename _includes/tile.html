@@ -15,8 +15,9 @@
                     <span>{{ category }}</span>
                 {% endfor %}
             {% endif %}
-            &middot; {% include tweet-share.html %} {% include tweet-follow.html %}
-        </aside>
+            &middot;
+            {% include tweet-share.html %} {% include tweet-follow.html%}
+            </aside>
 
         <div style="display: inline;">
         {% if post.featured_image or post.featured_video_id or post.local_featured_image %}
@@ -46,7 +47,7 @@
         {% endif %}
 
         <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="read-more btn btn-info btn-lg">
-            Ver más... 
+            Ver más...
             <i class="fa fa-angle-right"></i>
         </a>
     </div>
