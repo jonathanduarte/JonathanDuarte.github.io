@@ -11,13 +11,13 @@ author_email: mrduarte55@gmail.com
 lead_text: 'Instalación de Ionic en pocos y simples pasos'
 ---
 
-El proceso de instalación de Ionic es bastante sencillo y está diseñado para funcionar correctamente en el sistema operativo de tu preferencia, particularmente el desarrollo en Linux y Mac es bastante similar así que funciona perfectamente, particularmente he seguido este tutorial en Linux ubuntu 16.04 LTS y no tuve ningún problema de relevancia así que *Let's go...*
+El proceso de instalación de Ionic es bastante sencillo y está diseñado para funcionar correctamente en el sistema operativo de tu preferencia, el desarrollo en Linux y Mac es bastante similar así que funciona perfectamente, particularmente he seguido este tutorial en Linux ubuntu 16.04 LTS y no tuve ningún problema de relevancia así que *Let's go...*
 
 # Paso 1: nodeJS.
 
 Node es una plataforma Javascript para la programación del lado del servidor que permite a los usuarios crear aplicaciones de red con mayor versatilidad, node incluye su propio manejador paquetes **npm** es una herramienta muy poderosa que podemos utilizar mediante consola para instalar paquetes de desarrollo necesarios, te aconsejo que cuando necesites instalar alguna herramienta consultes primero la documentación de npm, es muy probable que este se encuentre incluido en su inventario.
 
-### `sudo apt-get install nodejs` ###
+### `sudo apt-get install nodejs` ###  
 
 *Verificamos la versión con:* `node -v` ; `npm -v`
 
