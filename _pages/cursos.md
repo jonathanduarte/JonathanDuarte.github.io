@@ -4,7 +4,7 @@ title: Cursos
 permalink: /cursos/
 ---
 
-Estoy creando una serie de cursos sobre Ionic para publicarlos en [udemy.com](http://udemy.com). Estaré publicando algunas partes para compartirla con todos los interesados. Si deseas profundizar te recomiendo tomar el curso oficial.
+Estoy creando una serie de cursos con [Alexander Ramírez](http://alexanderramirez.me) sobre Ionic para publicarlos en [udemy.com](http://udemy.com). Estaré publicando algunas partes para compartirla con todos los interesados. Si deseas profundizar te recomiendo tomar el curso oficial.
 
 El primero de la serie introduce todos los componentes visuales de Ionic que se acceden a través de directivas de AngularJS como clases.
 
