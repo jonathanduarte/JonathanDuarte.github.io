@@ -11,7 +11,7 @@ author_email: mrduarte55@gmail.com
 lead_text: 'Instalación de Ionic en pocos y simples pasos'
 ---
 
-El proceso de instalación de Ionic es bastante sencillo y esta diseñado para funcionar correctamente en el sistema operativo de tu preferencia, particularmente el desarrollo en linux y Mac es bastante similar así que funciona perfectamente en ambos casos.  
+El proceso de instalación de Ionic es bastante sencillo y esta diseñado para funcionar correctamente en el sistema operativo de tu preferencia, el desarrollo en linux y Mac es bastante similar así que funciona perfectamente en ambos casos,es muy probable que este se encuentre incluido en su inventario.  
 
 # Paso 1: nodeJS.
 
