@@ -17,8 +17,9 @@ Actualmente estoy por graduarme de Ingeniero de Sistemas, soy entusiasta, empren
 Este blog es simplemente la recopilación de todo lo que aprendo a diario y que simplemente prefiero compartirlo con todos los que sientan interés en aprender y superarse cada día, simplemente de nada nos sirve tener todo el conocimiento del mundo si al morir nada de ese conocimiento se ira con nosotros así que yo prefiero compartirlo con ustedes.
 
 No quiero culminar estas palabras sin agradecer a la siguientes personas:  
-Dios.  
-Familia Entera.(Son muchos para nombrarlos a todos).  
-Alexander Ramirez(CTO en Synergy-GB). "Miyagi San".  
+- Dios.  
+- Familia Entera.(Son muchos para nombrarlos a todos).  
+- Alexander Ramirez(CTO en Synergy-GB). "Miyagi San".   
+- Gabriel Vega (Lider de aplicaciones en Synergy-GB).  
 
 **A Ustedes Gracias...**
