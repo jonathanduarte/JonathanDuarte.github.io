@@ -69,7 +69,7 @@ Para verificar que [nvm][2] se encuentra correctamente instaldo y funcionando co
 
 - Para obtener la lista de las versiones de node disponibles para ser instaladas
 
-{% highlight terminal %}
+{% highlight highlight2 terminal %}
   nvm ls-remote
 {% endhighlight %}
 
