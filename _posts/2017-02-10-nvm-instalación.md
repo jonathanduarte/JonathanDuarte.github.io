@@ -47,18 +47,25 @@ Para verificar que [nvm][2] se encuentra correctamente instaldo y funcionando co
 
 ## Comandos de utilidad
 
-**1.- nvm help:** Con este comando tenemos acceso a los comando de [nvm][2].
+- Para acceder a los comando de [nvm][2].
 
-**2.- nvm ls:** Con este comando obtenemos la lista de las versiones de node instaladas en nuestro computadora.
+### `nvm help` ###
 
-**3.- nvm ls-remote:** Con este comando obtenemos la lista de las versiones de node disponibles para ser instaladas
+- Para obtener la lista de las versiones de node instaladas en nuestro computadora.
 
-**3.- nvm install + <version>:** Con este comando instamos una version especifica de node ejemplo:
+### `nvm ls` ###
 
-### `nvm install 6.9.5` ###
+- Para obtener la lista de las versiones de node disponibles para ser instaladas
 
-**3.- nvm alias default:** Con este comando fijamos por defecto la versión de node que se esta utilizando actualmente.
+### `nvm ls-remote` ###
 
+Para instalar una versión especifica de node:
+
+### `nvm install + version ` ###
+
+- Para fijar por defecto la versión de node que se esta utilizando actualmente.
+
+### `nvm alias default` ###
 
 [1]:https://nodejs.org/es/
 [2]:https://github.com/creationix/nvm
