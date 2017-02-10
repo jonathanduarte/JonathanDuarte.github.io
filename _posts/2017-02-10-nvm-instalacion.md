@@ -23,7 +23,7 @@ Actualizamos nuestros paquetes con el comando:
   sudo apt-get update
 {% endhighlight %}
 
-El paquete **build-essential** deberia estar instalado sin embargo vamos a incluirlo en nuestro proceso de instalación con el comando  
+El paquete **build-essential** deberia estar instalado sin embargo vamos a incluirlo en nuestro proceso de instalación con el comando:  
 
 {% highlight terminal %}
   apt-get install build-essential libssl-dev
@@ -55,21 +55,21 @@ Para verificar que [nvm][2] se encuentra correctamente instaldo y funcionando co
 
 ## Comandos de utilidad
 
-- Para acceder a los comando de [nvm][2].
+- Para acceder a los comando de [nvm][2]:
 
 {% highlight terminal %}
   nvm help
 {% endhighlight %}
 
-- Para obtener la lista de las versiones de node instaladas en nuestro computadora.
+- Para obtener la lista de las versiones de node instaladas en nuestro computadora:
 
 {% highlight terminal %}
   nvm ls
 {% endhighlight %}
 
-- Para obtener la lista de las versiones de node disponibles para ser instaladas
+- Para obtener la lista de las versiones de node disponibles para ser instaladas:
 
-{% highlight highlight2 terminal %}
+{% highlight terminal %}
   nvm ls-remote
 {% endhighlight %}
 
