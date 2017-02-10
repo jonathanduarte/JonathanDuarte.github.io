@@ -19,11 +19,14 @@ Particularmente este artículo tiene como objetivo mostrar el proceso de instala
 ## Paso 1: Preparandonos para instalar nvm
 Actualizamos nuestros paquetes con el comando:
 
-### `sudo apt-get update` ###  
+{% highlight terminal %}
+  sudo apt-get update
+{% endhighlight %}
 
 El paquete **build-essential** deberia estar instalado sin embargo vamos a incluirlo en nuestro proceso de instalación con el comando  
 
 ### `apt-get install build-essential libssl-dev` ###
+
 ---
 
 
