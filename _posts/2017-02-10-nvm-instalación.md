@@ -1,0 +1,64 @@
+---
+layout: inner
+title: 'Instalción de NodeJS utilizando Node Version Manager (nvm)'
+date: 2016-08-23 15:00:00
+categories: Tencnología
+tags: nvm nodejs
+local_featured_image: 'nvm.jpg'
+author: Jonathan Duarte.
+author_pic: autorJonathan.JPG
+author_email: mrduarte55@gmail.com
+lead_text: 'Node es un intérprete Javascript del lado del servidor que permitir a un programador construir aplicaciones altamente escalables y escribir código que maneje decenas de miles de conexiones simultáneas en una sola máquina física.'
+---
+
+[NodeJS][1] según su propia definicion es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Node.js usa un modelo de operaciones E/S sin bloqueo y orientado a eventos, que lo hace liviano y eficiente. El ecosistema de paquetes de Node.js, npm, es el ecosistema mas grande de librerías de código abierto en el mundo.
+
+Particularmente este artículo tiene como objetivo mostrar el proceso de instalación de [nvm][2] esta herramienta es un manejador de versiones para [nodeJs][1], lo que nos da la posibilidad de poder instalar y gestionar diferentes versiones de [nodeJs][1] de forma amigable y sin los tediosos problemas de incompatibilidad en nuestras dependencias.
+
+
+## Paso 1: Preparandonos para instalar nvm
+Actualizamos nuestros paquetes con el comando:
+
+### `sudo apt-get update` ###  
+
+El paquete **build-essential** deberia estar instalado sin embargo vamos a incluirlo en nuestro proceso de instalación con el comando  
+
+### `apt-get install build-essential libssl-dev` ###
+---
+
+
+## Paso 2: Instalando NVM (node version manager)
+Con el siguiente comando inicializamos el script de instalación:
+
+#### `curl https://raw.githubusercontent.com/creationix/nvm/v0.25.0/install.sh | bash` ####
+
+Como pueden observar en el comando especificamos la versión actual a instalar en este caso yo estoy instalando la versión 6.9.5 ya que es con la cual estoy trabajando actualmente en caso de requerir otra versión simplemente la sustituimos en el comando ejecutado y listo.
+
+**Debemos cerrar y abrir nuevamente nuestro terminal**
+
+## Paso 3: Verificando nuestra instalación
+
+Para verificar que [nvm][2] se encuentra correctamente instaldo y funcionando corremos el siguiente comando:
+
+### `nvm --version` ###
+
+
+**El resultado en nuestro terminal debe ser 6.9.5**
+
+## Comandos de utilidad
+
+**1.- nvm help:** Con este comando tenemos acceso a los comando de [nvm][2].
+
+**2.- nvm ls:** Con este comando obtenemos la lista de las versiones de node instaladas en nuestro computadora.
+
+**3.- nvm ls-remote:** Con este comando obtenemos la lista de las versiones de node disponibles para ser instaladas
+
+**3.- nvm install + <version>:** Con este comando instamos una version especifica de node ejemplo:
+
+### `nvm install 6.9.5` ###
+
+**3.- nvm alias default:** Con este comando fijamos por defecto la versión de node que se esta utilizando actualmente.
+
+
+[1]:https://nodejs.org/es/
+[2]:https://github.com/creationix/nvm
