@@ -13,7 +13,7 @@ lead_text: 'Node es un intérprete Javascript del lado del servidor que permitir
 
 [NodeJS][1] según su propia definicion es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Node.js usa un modelo de operaciones E/S sin bloqueo y orientado a eventos, que lo hace liviano y eficiente. El ecosistema de paquetes de Node.js, npm, es el ecosistema mas grande de librerías de código abierto en el mundo.
 
-Particularmente este artículo tiene como objetivo mostrar el proceso de instalación de [nvm][2] esta herramienta es un manejador de versiones para [nodeJs][1], lo que nos da la posibilidad de poder instalar y gestionar diferentes versiones de [nodeJs][1] de forma amigable y sin los tediosos problemas de incompatibilidad en nuestras dependencias.
+Particularmente este artículo tiene como objetivo mostrar el proceso de instalación de [nvm][2] esta herramienta es un manejador de versiones para [nodeJs][1] , lo que nos da la posibilidad de poder instalar y gestionar diferentes versiones de [nodeJs][1] de forma amigable y sin los tediosos problemas de incompatibilidad en nuestras dependencias.
 
 
 ## Paso 1: Preparandonos para instalar nvm
