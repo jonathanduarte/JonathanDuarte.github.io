@@ -25,15 +25,18 @@ Actualizamos nuestros paquetes con el comando:
 
 El paquete **build-essential** deberia estar instalado sin embargo vamos a incluirlo en nuestro proceso de instalación con el comando  
 
-### `apt-get install build-essential libssl-dev` ###
-
+{% highlight terminal %}
+  apt-get install build-essential libssl-dev
+{% endhighlight %}
 ---
 
 
 ## Paso 2: Instalando NVM (node version manager)
 Con el siguiente comando inicializamos el script de instalación:
 
-#### `curl https://raw.githubusercontent.com/creationix/nvm/v0.25.0/install.sh | bash` ####
+{% highlight terminal %}
+  curl https://raw.githubusercontent.com/creationix/nvm/v6.9.5/install.sh | bash
+{% endhighlight %}
 
 Como pueden observar en el comando especificamos la versión actual a instalar en este caso yo estoy instalando la versión 6.9.5 ya que es con la cual estoy trabajando actualmente en caso de requerir otra versión simplemente la sustituimos en el comando ejecutado y listo.
 
@@ -43,7 +46,9 @@ Como pueden observar en el comando especificamos la versión actual a instalar e
 
 Para verificar que [nvm][2] se encuentra correctamente instaldo y funcionando corremos el siguiente comando:
 
-### `nvm --version` ###
+{% highlight terminal %}
+  nvm --version
+{% endhighlight %}
 
 
 **El resultado en nuestro terminal debe ser 6.9.5**
@@ -52,23 +57,33 @@ Para verificar que [nvm][2] se encuentra correctamente instaldo y funcionando co
 
 - Para acceder a los comando de [nvm][2].
 
-### `nvm help` ###
+{% highlight terminal %}
+  nvm help
+{% endhighlight %}
 
 - Para obtener la lista de las versiones de node instaladas en nuestro computadora.
 
-### `nvm ls` ###
+{% highlight terminal %}
+  nvm ls
+{% endhighlight %}
 
 - Para obtener la lista de las versiones de node disponibles para ser instaladas
 
-### `nvm ls-remote` ###
+{% highlight terminal %}
+  nvm ls-remote
+{% endhighlight %}
 
-Para instalar una versión especifica de node:
+- Para instalar una versión especifica de node:
 
-### `nvm install + version ` ###
+{% highlight terminal %}
+  nvm install + version
+{% endhighlight %}
 
-- Para fijar por defecto la versión de node que se esta utilizando actualmente.
+- Para fijar por defecto la versión de node que se esta utilizando actualmente:
 
-### `nvm alias default` ###
+{% highlight terminal %}
+  nvm alias default
+{% endhighlight %}
 
 [1]:https://nodejs.org/es/
 [2]:https://github.com/creationix/nvm
