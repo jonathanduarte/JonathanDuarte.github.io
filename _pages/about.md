@@ -1,7 +1,7 @@
 ---
-layout: inner
 title: Jonathan Duarte
-permalink: /about/
+permalink: "/about/"
+layout: inner
 ---
 
 Saludos y Bienvenidos a mi blog, estoy seguro que si te encuentras en esta sección es por que sientes curiosidad sobre su autor y querrás conocer la mente maestra con doctorado de la universidad de Harvard ubicada en Cambridge, Massachusetts, CTO de alguna súper empresa de tecnología, que se encuentra detrás de este súper estupendo y muy bien construido blog...

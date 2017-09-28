@@ -1,7 +1,7 @@
 ---
-layout: inner
 title: Cursos
-permalink: /cursos/
+permalink: "/cursos/"
+layout: inner
 ---
 
 Estoy creando una serie de cursos con [Alexander Ramírez](http://alexanderramirez.me) sobre Ionic para publicarlos en [udemy.com](http://udemy.com). Estaré publicando algunas partes para compartirla con todos los interesados. Si deseas profundizar te recomiendo tomar el curso oficial.

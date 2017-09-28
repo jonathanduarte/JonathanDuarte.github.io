@@ -1,14 +1,19 @@
 ---
+title: Instalción de NodeJS utilizando Node Version Manager (nvm)
+date: 2016-08-23 15:00:00 Z
+categories:
+- Tencnología
+tags:
+- nvm
+- nodejs
 layout: inner
-title: 'Instalción de NodeJS utilizando Node Version Manager (nvm)'
-date: 2016-08-23 15:00:00
-categories: Tencnología
-tags: nvm nodejs
-local_featured_image: 'nvm.jpg'
+local_featured_image: nvm.jpg
 author: Jonathan Duarte.
 author_pic: autorJonathan.JPG
 author_email: mrduarte55@gmail.com
-lead_text: 'Node es un intérprete Javascript del lado del servidor que permitir a un programador construir aplicaciones altamente escalables y escribir código que maneje decenas de miles de conexiones simultáneas en una sola máquina física.'
+lead_text: Node es un intérprete Javascript del lado del servidor que permitir a un
+  programador construir aplicaciones altamente escalables y escribir código que maneje
+  decenas de miles de conexiones simultáneas en una sola máquina física.
 ---
 
 [NodeJS][1] según su propia definicion es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Node.js usa un modelo de operaciones E/S sin bloqueo y orientado a eventos, que lo hace liviano y eficiente. El ecosistema de paquetes de Node.js, npm, es el ecosistema mas grande de librerías de código abierto en el mundo.

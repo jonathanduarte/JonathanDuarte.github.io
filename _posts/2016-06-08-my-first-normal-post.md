@@ -1,14 +1,20 @@
 ---
-layout: inner
 title: '"Ionic" Crea una vez implementa las que quieras'
-date: 2016-06-08 13:26:34
-categories: Tencnología
-tags: ionic framework
-local_featured_image: 'jonathan.png'
+date: 2016-06-08 13:26:34 Z
+categories:
+- Tencnología
+tags:
+- ionic
+- framework
+layout: inner
+local_featured_image: jonathan.png
 author: Jonathan Duarte.
 author_pic: autorJonathan.JPG
 author_email: mrduarte55@gmail.com
-lead_text: 'Esta es una de las frases mas celebres de Ionic pues es esta la premisa de los desarrollos multiplataforma, orientados a sustituir el tedioso desarrollo nativo y el mantenimiento que este implica, te invito a que conozcas este poderoso framework de desarrollo y veras por ti mismo las bondades que este ofrece...'
+lead_text: Esta es una de las frases mas celebres de Ionic pues es esta la premisa
+  de los desarrollos multiplataforma, orientados a sustituir el tedioso desarrollo
+  nativo y el mantenimiento que este implica, te invito a que conozcas este poderoso
+  framework de desarrollo y veras por ti mismo las bondades que este ofrece...
 ---
 
 [Ionic][ionicDocs] es un Framework gratuito y open source para desarrollar aplicaciones híbridas multiplataforma que utiliza HTML5, CSS (generado por SASS) y Cordova como base. Es uno de los framework del momento por utilizar AngularJS para gestionar las aplicaciones, lo que asegura aplicaciones rápidas y escalables.

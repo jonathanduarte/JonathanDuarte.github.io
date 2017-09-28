@@ -1,14 +1,20 @@
 ---
+title: Mi primera aplicación con Ionic
+date: 2016-06-14 15:00:00 Z
+categories:
+- Tencnología
+tags:
+- ionic
+- framework
+- templeates
+- aplicación
 layout: inner
-title: 'Mi primera aplicación con Ionic'
-date: 2016-06-14 15:00:00
-categories: Tencnología
-tags: ionic framework templeates aplicación
-local_featured_image: 'templates.jpg'
+local_featured_image: templates.jpg
 author: Jonathan Duarte.
 author_pic: autorJonathan.JPG
 author_email: mrduarte55@gmail.com
-lead_text: 'Aprenderemos como crear nuestra primera aplicación utilizando los templates que Ionic tiene disponibles para nosotros'
+lead_text: Aprenderemos como crear nuestra primera aplicación utilizando los templates
+  que Ionic tiene disponibles para nosotros
 ---
 
 Ionic ha hecho un esfuerzo por facilitar la ejecución de los procesos que comprenden desarrollar con esta herramienta, es por ello que nos proporcionaron plantillas ya construidas que podemos utilizar con mucha facilidad, en este artículo te mostraremos los primeros pasos para construir tus propias aplicaciones utilizando Ionic Framework.

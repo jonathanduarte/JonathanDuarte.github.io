@@ -1,14 +1,18 @@
 ---
+title: Instalación de Ionic
+date: 2016-06-14 15:00:00 Z
+categories:
+- Tencnología
+tags:
+- ionic
+- framework
+- Instalacion
 layout: inner
-title: 'Instalación de Ionic'
-date: 2016-06-14 15:00:00
-categories: Tencnología
-tags: ionic framework Instalacion
-local_featured_image: 'sraCodificando.jpg'
+local_featured_image: sraCodificando.jpg
 author: Jonathan Duarte.
 author_pic: autorJonathan.JPG
 author_email: mrduarte55@gmail.com
-lead_text: 'Instalación de Ionic en pocos y simples pasos'
+lead_text: Instalación de Ionic en pocos y simples pasos
 ---
 
 El proceso de instalación de Ionic es bastante sencillo y está diseñado para funcionar correctamente en el sistema operativo de tu preferencia, el desarrollo en Linux y Mac es bastante similar así que funciona perfectamente, particularmente he seguido este tutorial en Linux ubuntu 16.04 LTS y no tuve ningún problema de relevancia así que *Let's go...*
