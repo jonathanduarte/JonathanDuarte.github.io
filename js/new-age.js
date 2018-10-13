@@ -2,7 +2,7 @@
   "use strict"; // Start of use strict
 
   //PHP sender
-    $('#mc-embedded-subscribe').on('click',function(){
+    $('#mc-embedded-subscribe-form').on('submit',function(){
               $("#exampleModal").modal();
               $('#mc-embedded-subscribe-form').trigger("reset");
       });
