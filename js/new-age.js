@@ -2,9 +2,9 @@
   "use strict"; // Start of use strict
 
   //PHP sender
-    $('#mc-embedded-subscribe-form').on('submit',function(){
-              $("#exampleModal").modal();
-      });
+    /*$('#mc-embedded-subscribe-form').on('submit',function(){
+
+    });*/
 
 
   // Smooth scrolling using jQuery easing
