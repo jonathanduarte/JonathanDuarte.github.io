@@ -1,35 +1,10 @@
 (function($) {
   "use strict"; // Start of use strict
 
-  // formspree use
-  var pathname = window.location.pathname;
-  if(pathname == "/thanks.html" ){
-    console.log('no estoy en index')
-    setTimeout(function(){
-      window.location.replace("/");
-    }, 4000);
-  }// end Formspree Use
-
   //PHP sender
-    $('#contact-form-submit').on('click',function(){
-        var email = $("#conEmail").val();
-        var url = "mail.php";
-
-        $.ajax({
-            type: "POST",
-            url: url,
-            data: {
-              email: email
-            },
-            success: function (data) {
+    $('#mc-embedded-subscribe').on('click',function(){
               $("#exampleModal").modal();
               $('#contact-form').trigger("reset");
-            },
-            error: function (error) {
-                console.log(JSON.stringify(error));
-            }
-        });
-        return false;
       });
 
 
