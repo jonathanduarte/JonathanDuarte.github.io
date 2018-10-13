@@ -10,12 +10,12 @@
         "spec": "5.3.1",
         "type": "version"
       },
-      "/home/jonathan/Documentos/vascar/oli-landing"
+      "/home/jonathan/Documentos/Vascar/oli-landing"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.3.1",
+  "_hasShrinkwrap": false,
   "_id": "@fortawesome/fontawesome-free@5.3.1",
-  "_inCache": true,
   "_location": "/@fortawesome/fontawesome-free",
   "_nodeVersion": "8.11.3",
   "_npmOperationalInternal": {
@@ -44,7 +44,7 @@
   "_shasum": "5466b8f31c1f493a96754c1426c25796d0633dd9",
   "_shrinkwrap": null,
   "_spec": "@fortawesome/fontawesome-free@5.3.1",
-  "_where": "/home/jonathan/Documentos/vascar/oli-landing",
+  "_where": "/home/jonathan/Documentos/Vascar/oli-landing",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
