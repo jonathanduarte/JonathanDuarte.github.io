@@ -4,11 +4,10 @@
   //PHP sender
 
     $("#mc-embedded-subscribe").click(function() {
-      $( "#mc-embedded-subscribe-form" ).submit(function() {
-        console.log('result')
-        preventDefault();
+      $( "#mc-embedded-subscribe-form" ).submit(function( event ) {
         $("#exampleModal").modal();
-      })
+        event.preventDefault();
+      });
     });
 
   // Smooth scrolling using jQuery easing
