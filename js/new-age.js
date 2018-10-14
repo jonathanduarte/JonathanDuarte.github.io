@@ -4,9 +4,9 @@
   //PHP sender
 
     $("#mc-embedded-subscribe").click(function() {
-      $("#exampleModal").modal();
-      $( "#mc-embedded-subscribe-form" ).submit();
-      console.log('result')  
+      $( "#mc-embedded-subscribe-form" ).submit(function() {
+        console.log('result')
+      })
     });
 
   // Smooth scrolling using jQuery easing
