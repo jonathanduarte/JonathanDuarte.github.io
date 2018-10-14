@@ -6,6 +6,7 @@
     $("#mc-embedded-subscribe").click(function() {
       $( "#mc-embedded-subscribe-form" ).submit(function() {
         console.log('result')
+        $("#exampleModal").modal();
       })
     });
 
