@@ -2,6 +2,9 @@
   "use strict"; // Start of use strict
 
   //PHP sender
+    /*$('#mc-embedded-subscribe').on('click',function(){
+        //
+    });*/
 
 
   // Smooth scrolling using jQuery easing
