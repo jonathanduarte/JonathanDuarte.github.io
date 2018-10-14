@@ -3,9 +3,11 @@
 
   //PHP sender
 
-    $("#mc-embedded-subscribe-form").bind('ajax:complete', function() {
-        $("#exampleModal").modal();
-      });
+    $("#mc-embedded-subscribe").click(function() {
+      $("#exampleModal").modal();
+      $( "#mc-embedded-subscribe-form" ).submit();
+      console.log('result')  
+    });
 
   // Smooth scrolling using jQuery easing
   $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
